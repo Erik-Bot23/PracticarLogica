@@ -44,6 +44,7 @@ public class Operaciones {
        System.out.println("Ingresa los grados centigrados: ");
        double gradC;
        gradC = sc.nextDouble();
+       sc.close();
        gd.grados(gradC);
        
     }

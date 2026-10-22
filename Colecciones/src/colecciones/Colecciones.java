@@ -22,6 +22,7 @@ public class Colecciones {
             System.out.println("Ingresa el número " + (i+1) + ":");
             nums[i] = sc.nextInt();
         }
+        sc.close();
         
         for(int i=0; i < nums.length; i++){
             System.out.println(nums[i]);
@@ -44,6 +45,7 @@ public class Colecciones {
             System.out.println("Elige una opción:\n1. Arreglo definido\n2. "
                     + "Ingresar el tamaño del arreglo\n3. Media de dos arreglos.\n4. Salir");
             opcion = sc.nextInt();
+            sc.close();
         
             switch(opcion){
               case 1:
