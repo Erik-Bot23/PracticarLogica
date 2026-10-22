@@ -22,8 +22,7 @@ public class NumerosRepetidos {
 
         for(Integer n : numeros){
             if(!vistos.add(n)) duplicados.add(n);
-        }
-
+        }  
         return new ArrayList<>(duplicados);
     }
 
@@ -31,6 +30,5 @@ public class NumerosRepetidos {
         List<Integer> numeros = List.of(1, 2, 3, 2, 4, 5, 1, 6);
 
         return numeros.stream().filter(n -> Collections.frequency(numeros, n) > 1).collect(Collectors.toSet());
-
     }
 }

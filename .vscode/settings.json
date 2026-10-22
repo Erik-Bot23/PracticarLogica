@@ -5,7 +5,8 @@
     "Nodos/src",
     "Operaciones/src",
     "SumarDosNumeros/src",
-    "Mapas/src"
+    "Mapas/src",
+    "Colectores/src"
   ],
   "java.project.outputPath": "bin",
   "java.configuration.updateBuildConfiguration": "automatic"

@@ -20,6 +20,7 @@ public class Operaciones {
         
         System.out.println("Introduce un número  entero: ");
         numero = sc.nextInt();
+        sc.close();
         
         double dob = 2*numero;
         double tri = 3*numero;
