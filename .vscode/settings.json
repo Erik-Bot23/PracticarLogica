@@ -1,0 +1,11 @@
+{
+  "java.project.sourcePaths": [
+    "Colecciones/src",
+    "Listas/src",
+    "Nodos/src",
+    "Operaciones/src",
+    "SumarDosNumeros/src"
+  ],
+  "java.project.outputPath": "bin",
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
