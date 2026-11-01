@@ -1,0 +1,25 @@
+{
+  "java.project.sourcePaths": [
+    "Colecciones/src",
+    "Listas/src",
+    "Nodos/src",
+    "Operaciones/src",
+    "SumarDosNumeros/src",
+    "Mapas/src",
+    "Colectores/src",
+    "Promedio/src",
+    "Descuento/src",
+    "InyeccionDeDependencias/src",
+    "Repositorio/src",
+    "Validar/src",
+    "Paginas/src",
+    "CacheProblema/src",
+    "RetryProblema/src",
+    "ParseoProblema/src",
+    "ApiConsola/src",
+    "Pedidos/src",
+    "MiniSpring/src"
+  ],
+  "java.project.outputPath": "bin",
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
